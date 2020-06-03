@@ -98,12 +98,11 @@ author:
   bio              : "I am an **amazing** person."
   location         : "United States"
   email            : "tuvannguyen33@gmail.com"
-  github           : "TuVanNguyen/"
   linkedin         : "tuvan-nguyen"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tuvannguyen33@gmail.com"
+      #url: "mailto:tuvannguyen33@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
